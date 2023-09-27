@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/bin/Debug/net6.0/ServerFirst
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/bin/Debug/net6.0/ServerFirst.deps.json
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/bin/Debug/net6.0/ServerFirst.runtimeconfig.json
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/bin/Debug/net6.0/ServerFirst.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/bin/Debug/net6.0/ServerFirst.pdb
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ServerFirst.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ServerFirst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ServerFirst.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ServerFirst.AssemblyInfo.cs
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ServerFirst.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ServerFirst.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/refint/ServerFirst.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ServerFirst.pdb
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ServerFirst.genruntimeconfig.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerFirst/obj/Debug/net6.0/ref/ServerFirst.dll

@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/bin/Debug/net6.0/ServerSecond
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/bin/Debug/net6.0/ServerSecond.deps.json
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/bin/Debug/net6.0/ServerSecond.runtimeconfig.json
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/bin/Debug/net6.0/ServerSecond.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/bin/Debug/net6.0/ServerSecond.pdb
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ServerSecond.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ServerSecond.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ServerSecond.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ServerSecond.AssemblyInfo.cs
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ServerSecond.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ServerSecond.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/refint/ServerSecond.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ServerSecond.pdb
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ServerSecond.genruntimeconfig.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerSecond/obj/Debug/net6.0/ref/ServerSecond.dll

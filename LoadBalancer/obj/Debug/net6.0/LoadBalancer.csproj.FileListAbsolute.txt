@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/bin/Debug/net6.0/LoadBalancer
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/bin/Debug/net6.0/LoadBalancer.deps.json
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/bin/Debug/net6.0/LoadBalancer.runtimeconfig.json
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/bin/Debug/net6.0/LoadBalancer.dll
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/bin/Debug/net6.0/LoadBalancer.pdb
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/LoadBalancer.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/LoadBalancer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/LoadBalancer.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/LoadBalancer.AssemblyInfo.cs
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/LoadBalancer.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/LoadBalancer.dll
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/refint/LoadBalancer.dll
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/LoadBalancer.pdb
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/LoadBalancer.genruntimeconfig.cache
+/Users/macbookpro/Projects/LoadBalancer/LoadBalancer/obj/Debug/net6.0/ref/LoadBalancer.dll

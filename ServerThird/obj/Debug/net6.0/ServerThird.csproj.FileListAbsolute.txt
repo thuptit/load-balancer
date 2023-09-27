@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/bin/Debug/net6.0/ServerThird
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/bin/Debug/net6.0/ServerThird.deps.json
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/bin/Debug/net6.0/ServerThird.runtimeconfig.json
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/bin/Debug/net6.0/ServerThird.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/bin/Debug/net6.0/ServerThird.pdb
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ServerThird.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ServerThird.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ServerThird.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ServerThird.AssemblyInfo.cs
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ServerThird.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ServerThird.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/refint/ServerThird.dll
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ServerThird.pdb
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ServerThird.genruntimeconfig.cache
+/Users/macbookpro/Projects/LoadBalancer/ServerThird/obj/Debug/net6.0/ref/ServerThird.dll
